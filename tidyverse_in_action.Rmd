@@ -174,11 +174,6 @@ preview_width <- 4
 ```
 
 
-```{r, child="roslings_plot_animation.Rmd"}
-
-```
-
-
 
 ```{r, child="roslings_plot.Rmd"}
 
